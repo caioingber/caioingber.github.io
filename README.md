@@ -20,8 +20,9 @@ A responsive website I created based off an AdobeXD mockup.
 * HTML
 * CSS
 
-[Deployed Site](https://caioingber.github.io/website-mockup/index.html)
-[Repo link](https://github.com/caioingber/website-mockup/)
+
+* [Deployed Site](https://caioingber.github.io/website-mockup/index.html)
+* [Repo link](https://github.com/caioingber/website-mockup/)
 
 ## Game of War
 
@@ -33,8 +34,9 @@ A program I wrote that simulates the card game 'War' from start to finish. Open 
 * HTML
 * Javascript
 
-[Deployed Site](https://caioingber.github.io/Game-of-War/)
-[Repo link](https://github.com/caioingber/Game-of-War)
+
+* [Deployed Site](https://caioingber.github.io/Game-of-War/)
+* [Repo link](https://github.com/caioingber/Game-of-War)
 
 ## BBC News Modal Wireframe
 
@@ -47,8 +49,9 @@ A wireframe I designed and created from scratch that utilizes the News API to di
 * Javascript
 * AJAX
 
-[Deployed Site](https://caioingber.github.io/bbc-news-modal/)
-[Repo link](https://github.com/caioingber/bbc-news-modal)
+
+* [Deployed Site](https://caioingber.github.io/bbc-news-modal/)
+* [Repo link](https://github.com/caioingber/bbc-news-modal)
 
 ## Simon Game
 
@@ -60,5 +63,6 @@ A recreation of the classic Hasbro game Simon.
 * CSS
 * Javascript
 
-[Deployed Site](https://caioingber.github.io/simon-says/)
-[Repo link](https://github.com/caioingber/simon-says)
+
+* [Deployed Site](https://caioingber.github.io/simon-says/)
+* [Repo link](https://github.com/caioingber/simon-says)
