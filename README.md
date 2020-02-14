@@ -7,7 +7,7 @@ Hello welcome to my portfolio. I am a highly-motivated and self-starting Softwar
 I am currently seeking opportunities in Software Engineering. Please do not hesitate to contact me.
 
 * caioingber@gmail.com
-* [LinkedIn] (https://www.linkedin.com/in/caio-ingber-74b224117/)
+* [LinkedIn](https://www.linkedin.com/in/caio-ingber-74b224117/)
 
 
 # Projects
